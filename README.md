@@ -1,0 +1,1 @@
+Bio-Data AnalyzerBu araç, .tsv formatındaki gen ekspresyon verilerini otomatik olarak analiz eder. $logFC$ ve $padj$ değerlerine göre filtreleme yaparak sonuçları Excel formatında (.xlsx) raporlar. Özellikle biyoinformatik çalışmaları için tasarlanmıştır.
